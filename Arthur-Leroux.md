@@ -66,3 +66,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leroux&the
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&show_icons=true&theme=onedark&count_private=true"/>
 </p>
 </center>
+
+Front langages
+=
+
+<img src="react.svg" width="40">
+<img src="html5.svg" width="40">
+<img src="css3.svg" width="40">
+<img src="react.svg" width="40">
+<img src="react.svg" width="40">
