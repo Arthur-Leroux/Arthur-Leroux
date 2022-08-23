@@ -53,5 +53,16 @@
 
 <br>
 <br>
+
+# Github stats
+
+<center>
+<img src ="
+https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leroux&theme=onedark&count">
+
+<br>
+<br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&show_icons=true&theme=onedark&count_private=true"/>
 </p>
+</center>
