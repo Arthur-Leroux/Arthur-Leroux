@@ -47,7 +47,7 @@
 <br>
 <img src="mail.gif" alt="email" width="100">
 
-## <a align="center" href="arthur.leroux33@protonmail.com">Mail</a>
+<a align="center" href="arthur.leroux33@protonmail.com">arthur.leroux33@protonmail.com</a>
 
 </center>
 
