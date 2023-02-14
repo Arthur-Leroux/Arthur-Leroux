@@ -47,7 +47,7 @@
 <br>
 <img src="mail.gif" alt="email" width="100">
 
-## <a align="center" href="https://www.linkedin.com/in/arthur-leroux-068266227/">Mail</a>
+## <a align="center" href="arthur.leroux33@protonmail.com">Mail</a>
 
 </center>
 
@@ -72,5 +72,4 @@ Front langages
 <img src="react.svg" width="40">
 <img src="html5.svg" width="40">
 <img src="css3.svg" width="40">
-<img src="react.svg" width="40">
-<img src="react.svg" width="40">
+<img src=""
