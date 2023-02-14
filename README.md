@@ -67,7 +67,7 @@
  <br>
 
  
-                                                                  Front langages
+<h2>Front langages<h2/>
 
 <img src="react.svg" width="40">
 <img src="html5.svg" width="40">
