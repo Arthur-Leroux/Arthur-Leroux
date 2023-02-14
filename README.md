@@ -56,15 +56,12 @@
 
 # Github stats
 
-<center>
+
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Leroux&theme=onedark&count">
+ 
+ <img style="float: right" src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&show_icons=true&theme=onedark&count_private=true"/>
+ 
 
-<br>
-<br>
-
- <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&show_icons=true&theme=onedark&count_private=true"/>
-
-</center>
 
 Front langages
 =
@@ -72,4 +69,4 @@ Front langages
 <img src="react.svg" width="40">
 <img src="html5.svg" width="40">
 <img src="css3.svg" width="40">
-<img src=""
+<img src="react.svg"width="40">
