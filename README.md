@@ -16,7 +16,7 @@
 [<img src="linkedin.gif" alt="linkedin" width="20">](https://www.linkedin.com/in/arthur-leroux-068266227/)
 - 📧 Email: <arthur.leroux33@protonmail.com>
 
-  ## Badges 🛡️
+## Badges 🛡️
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Arthur-Leroux/RPG?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/Arthur-Leroux/hit-machine-nodejs?style=flat-square)
@@ -30,9 +30,14 @@
 
 ## Front languages 💻
 
-<img src="react.svg" alt="react" width="20" align="center"> <img src="html5.svg" alt="html5" width="20" align="center"> <img src="css3.svg" alt="css3" width="20" align="center"> <img src="javascript.svg" alt="javascript" width="20" align="center">
+<p align="center">
+  <img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
+</p>
 
 ## Back languages 🔙
 
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
-![Express](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/256px-Expressjs.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/256px-Expressjs.png" alt="Express" width="20">
+</p>
+
