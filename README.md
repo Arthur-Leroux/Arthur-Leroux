@@ -30,7 +30,7 @@
 
 ## Front languages 💻
 
-<img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
+<img src="react.svg" alt="react" width="20" align="center"> <img src="html5.svg" alt="html5" width="20" align="center"> <img src="css3.svg" alt="css3" width="20" align="center"> <img src="javascript.svg" alt="javascript" width="20" align="center">
 
 ## Back languages 🔙
 
