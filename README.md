@@ -1,10 +1,10 @@
-# Hi guys ! 👋
+<h1 align="center">Hi guys ! 👋</h1>
 
-![hello](hello.gif)
+<p align="center">
+  <img src="hello.gif" alt="hello">
+</p>
 
-## *Let's go on a new Adventure !* 🚀
-![dev](dev.gif)
-![miam](miam.gif)
+<h2 align="center">*Let's go on a new Adventure !* 🚀 <img src="miam.gif" width="30"></h2>
 
 ## My Education and Skills 🎓
 
@@ -24,4 +24,5 @@
 ## Front languages 💻
 
 <img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
+
 
