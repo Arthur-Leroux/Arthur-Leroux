@@ -34,4 +34,5 @@
 
 ## Back languages 🔙
 
-<img src="nodejs.svg" alt="nodejs" width="20"> <img src="express.svg" alt="express" width="20">
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+![Express](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/256px-Expressjs.png)
