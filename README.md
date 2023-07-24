@@ -1,74 +1,34 @@
-<h1 align="center">Hi guys !
+# Hi guys ! 👋
 
-<br>
+![hello](hello.gif)
 
-<img src="hello.gif" alt="hello"> </h1>
+![dev](dev.gif)
 
-<!--<h2 align="center">I'm new dev web in the world</h2> -->
-<h2 align="center">
-<img src="dev.gif" width="500">
-<h2>
-<br>
-<br>
-<h2 align="center">*Let's go new Adventure !*<img src="miam.gif" width="40"></h2>
-
-<br>
-
-<br>
-<br>
-<br>
-
- <img src="school.gif" alt="school" width="40">
- <strong>My school : </strong> 
-  <a href="https://oclock.io/"> O'clock</a>
-
- <br>
- <br>
- 
-  
-  <img align="left" src="layercake-jsfs.png" width="40">
- <strong>My formation is
-  :</strong> <a href="https://oclock.io/formations/developpeur-web-fullstack-javascript">Fullstack JavaScript </a>
-
-  <br>
-  <br>
-
-                                             My social networks and mail
-
-  <br>
-  <br>
-  
-  <center>
-<img src="linkedin.gif" width="100">
-
-## <a align="center" href="https://www.linkedin.com/in/arthur-leroux-068266227/">Linkedin</a>
-
-<br>
-<br>
-<img src="mail.gif" alt="email" width="100">
-
-<a align="center" href="arthur.leroux33@protonmail.com">arthur.leroux33@protonmail.com</a>
-
-</center>
+## *Let's go on a new Adventure !* 🚀
+![miam](miam.gif)
 
 <br>
 <br>
 
-                                                                 Github stats
- <br>
- <br>
+![school](school.gif) **My school:** [O'clock](https://oclock.io/)
 
-<center>
-<img align="left" src ="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count">
- 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count">
- <center/>
+![layercake-jsfs](layercake-jsfs.png) **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 
+## My social networks and mail 📧
 
- 
-                                                               Front langages
+[![linkedin](linkedin.gif)](https://www.linkedin.com/in/arthur-leroux-068266227/)
+[arthur.leroux33@protonmail.com](mailto:arthur.leroux33@protonmail.com)
+![email](mail.gif)
 
-<img src="react.svg" width="40">
-<img src="html5.svg" width="40">
-<img src="css3.svg" width="40">
-<img src="react.svg" width="40">
+## Github stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true)
+
+## Front languages 💻
+
+![react](react.svg)
+![html5](html5.svg)
+![css3](css3.svg)
+![javascript](javascript.svg)
+
