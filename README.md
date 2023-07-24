@@ -13,7 +13,7 @@
 
 ## Connect with me! 🌐
 
-[<img src="linkedin.gif" alt="linkedin" width="20">](https://www.linkedin.com/in/arthur-leroux-068266227/)
+-[<img src="linkedin.gif" alt="linkedin" width="20">](https://www.linkedin.com/in/arthur-leroux-068266227/) :<a align="center" href="https://www.linkedin.com/in/arthur-leroux-068266227/">Linkedin</a>
 - 📧 Email: <arthur.leroux33@protonmail.com>
 
 ## Badges 🛡️
