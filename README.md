@@ -1,53 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f0f0f0;
-    }
-    h1, h2, strong {
-      color: #303030;
-    }
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #ffffff;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    .center {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    img {
-      margin: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Hi guys ! 👋</h1>
-    <p>
-      <img src="hello.gif" alt="hello">
-    </p>
-    <h2>*Let's go on a new Adventure !* 🚀 <img src="miam.gif" width="30"></h2>
+<h1 align="center">Hi guys ! 👋</h1>
 
-    <!-- Le reste du contenu -->
+<p align="center">
+  <img src="hello.gif" alt="hello">
+</p>
 
-    <h2>Github stats 📈</h2>
-    <div class="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true" alt="GitHub Stats" width="400">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true" alt="Top Languages" width="400">
-    </div>
+<h2 align="center">*Let's go on a new Adventure !* 🚀 <img src="miam.gif" width="30"></h2>
 
-    <!-- Le reste du contenu -->
+## My Education and Skills 🎓
 
-  </div>
-</body>
-</html>
+- <img src="school.gif" alt="school" width="20"> **My school:** [O'clock](https://oclock.io/)
+- <img src="layercake-jsfs.png" alt="formation" width="20"> **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 
+## Connect with me! 🌐
+
+[<img src="linkedin.gif" alt="linkedin" width="20">](https://www.linkedin.com/in/arthur-leroux-068266227/)
+- 📧 Email: <arthur.leroux33@protonmail.com>
+
+  ## Badges 🛡️
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Arthur-Leroux/Your-Repo?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Arthur-Leroux/Your-Repo?style=flat-square)
+
+## Github stats 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true" alt="Top Languages" width="400">
+</p>
+
+## Front languages 💻
+
+<img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
+
+## Back languages 🔙
+
+<img src="nodejs.svg" alt="nodejs" width="20"> <img src="express.svg" alt="express" width="20">
