@@ -18,14 +18,19 @@
 
 ## Github stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true" alt="GitHub Stats" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true" alt="Top Languages" width="400">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true" alt="Top Languages" width="400">
+</p>
 
 ## Front languages 💻
 
 <img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
 
 ## Back languages 🔙
+
+<img src="nodejs.svg" alt="nodejs" width="20"> <img src="express.svg" alt="express" width="20">
+
 
 <img src="nodejs.svg" alt="nodejs" width="20"> <img src="express.svg" alt="express" width="20">
 
