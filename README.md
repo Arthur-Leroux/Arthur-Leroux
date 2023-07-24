@@ -1,24 +1,21 @@
-# Hi guys ! 👋
+# Hi guys ! :wave:
 
 ![hello](hello.gif)
 
+## *Let's go on a new Adventure !* 🚀
 ![dev](dev.gif)
 
-## *Let's go on a new Adventure !* 🚀
 ![miam](miam.gif)
 
-<br>
-<br>
+## My Education and Skills 🎓
 
-![school](school.gif) **My school:** [O'clock](https://oclock.io/)
+- ![school](school.gif) **My school:** [O'clock](https://oclock.io/)
+- ![layercake-jsfs](layercake-jsfs.png) **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 
-![layercake-jsfs](layercake-jsfs.png) **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
-
-## My social networks and mail 📧
+## Connect with me! 🌐
 
 [![linkedin](linkedin.gif)](https://www.linkedin.com/in/arthur-leroux-068266227/)
-[arthur.leroux33@protonmail.com](mailto:arthur.leroux33@protonmail.com)
-![email](mail.gif)
+- 📧 Email: [arthur.leroux33@protonmail.com](mailto:arthur.leroux33@protonmail.com)
 
 ## Github stats 📈
 
@@ -27,8 +24,4 @@
 
 ## Front languages 💻
 
-![react](react.svg)
-![html5](html5.svg)
-![css3](css3.svg)
-![javascript](javascript.svg)
-
+![react](react.svg) ![html5](html5.svg) ![css3](css3.svg) ![javascript](javascript.svg)
