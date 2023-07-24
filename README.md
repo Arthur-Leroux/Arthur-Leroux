@@ -1,27 +1,27 @@
-# Hi guys ! :wave:
+# Hi guys ! 👋
 
 ![hello](hello.gif)
 
 ## *Let's go on a new Adventure !* 🚀
 ![dev](dev.gif)
-
 ![miam](miam.gif)
 
 ## My Education and Skills 🎓
 
-- ![school](school.gif) **My school:** [O'clock](https://oclock.io/)
-- ![layercake-jsfs](layercake-jsfs.png) **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
+- <img src="school.gif" alt="school" width="20"> **My school:** [O'clock](https://oclock.io/)
+- <img src="layercake-jsfs.png" alt="formation" width="20"> **My formation is:** [Fullstack JavaScript](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 
 ## Connect with me! 🌐
 
-[![linkedin](linkedin.gif)](https://www.linkedin.com/in/arthur-leroux-068266227/)
-- 📧 Email: [arthur.leroux33@protonmail.com](mailto:arthur.leroux33@protonmail.com)
+[<img src="linkedin.gif" alt="linkedin" width="20">](https://www.linkedin.com/in/arthur-leroux-068266227/)
+- 📧 Email: <arthur.leroux33@protonmail.com>
 
 ## Github stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Arthur-Leroux&theme=onedark&count=true" alt="GitHub Stats" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Leroux&theme=onedark&count=true" alt="Top Languages" width="400">
 
 ## Front languages 💻
 
-![react](react.svg) ![html5](html5.svg) ![css3](css3.svg) ![javascript](javascript.svg)
+<img src="react.svg" alt="react" width="20"> <img src="html5.svg" alt="html5" width="20"> <img src="css3.svg" alt="css3" width="20"> <img src="javascript.svg" alt="javascript" width="20">
+
