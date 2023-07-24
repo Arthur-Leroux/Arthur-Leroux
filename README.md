@@ -18,8 +18,8 @@
 
   ## Badges 🛡️
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Arthur-Leroux/Your-Repo?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/Arthur-Leroux/Your-Repo?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Arthur-Leroux/RPG?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Arthur-Leroux/hit-machine-nodejs?style=flat-square)
 
 ## Github stats 📈
 
